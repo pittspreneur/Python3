@@ -1,0 +1,28 @@
+#This program accesses, adds, removes, and modifies list elements of standard and 2-D lists for Pitts' T-Shirt Co Customers.
+
+# Building the first name list
+first_names = ["Ainsley", "Ben", "Chani", "Depak"]
+
+#Preferred Sizes List
+preferred_size = ["Small", "Large", "Medium"]
+
+#Adding Depak's Size
+preferred_size.append("Medium")
+print(preferred_size)
+print("\n")
+
+#Creating The 2-D list 
+customer_data = [["Ainsley", "Small", True], ["Ben", "Large", False], ["Chani", "Medium", True], ["Depak", "Medium", False]]
+print(customer_data)
+print("\n")
+
+#Chaini Shipping Change
+customer_data[2][2] = False
+
+#Ben Shipping Update
+customer_data[1].remove(False)
+
+#Customer Data Update
+customer_data_final = customer_data + [["Amit", "Large", True], ["Karim", "X-Large", False]]
+print(customer_data_final)
+

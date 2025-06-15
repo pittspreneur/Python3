@@ -1,4 +1,4 @@
-#This code acts as the popular toy, the Magic 8 Ball. Here I have made the code as simple as possible in lesser lines than the previous version.
+#This code acts as the popular toy, the Magic 8 Ball. Here, I have made the code as simple as possible in fewer lines than the previous version.
 
 import random
 

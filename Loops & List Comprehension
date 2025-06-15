@@ -12,5 +12,3 @@ for digits in single_digits:
   
 cubes = [digit**3 for digit in single_digits]
 print(cubes)
-
-  

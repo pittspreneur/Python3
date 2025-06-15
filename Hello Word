@@ -1,0 +1,8 @@
+#I created a short script that states my name, my age, and prints out a string.
+
+my_age = 28
+half_my_age = 28 / 2
+greeting = 'Hello my name is '
+name = 'John'
+greeting_with_name = greeting + name
+print(greeting_with_name)

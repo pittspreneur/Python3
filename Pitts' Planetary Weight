@@ -1,11 +1,11 @@
-#This script shows the weight for a person on different planets using control flow through if, elif, and else statements, and their input of weight and planet.
+#This script shows my weight on different planets using control flow and my input of weight/planet.
 
 print("I have information for the following planets:\n")
 
 print("   1. Venus   2. Mars    3. Jupiter")
 print("   4. Saturn  5. Uranus  6. Neptune\n")
  
-weight = 185
+weight = 145
 planet = 3
 
 # Write an if statement below:

@@ -1,4 +1,5 @@
-'''Password Generator'''
+# This script generates a random password using Python's string and random libraries.
+# It selects printable characters from a specified range to construct a password of user-defined length.
 
 import string, random#.......................allows function to print a random string 
 

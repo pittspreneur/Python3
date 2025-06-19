@@ -1,4 +1,5 @@
-#This program organizes some of the sales data for Pitts' Pizza by sorting, slicing, counting, and altering lists.
+# This program organizes some of the sales data for Pitts' Pizza by sorting, slicing, counting, and altering lists.
+# It tracks pizza prices, builds a 2D list, identifies the cheapest and most expensive items, and modifies the menu.
 
 #Building The Intial List(s)
 toppings = ["pepperoni", "pineapple", "cheese", "sausage", "olives", "anchovies", "mushrooms"]

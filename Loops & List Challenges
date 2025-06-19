@@ -1,5 +1,5 @@
-
-
+# This file includes five Python challenges focused on list iteration and transformation using loops.
+# Topics covered include filtering, string formatting, slicing, nested iteration, and list reconstruction.
 
 #Q1) Create a function named divisible_by_ten() that takes a list of numbers named nums as a parameter. Return the count of how many numbers in the list are divisible by 10.
 

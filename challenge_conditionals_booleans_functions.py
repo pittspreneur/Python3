@@ -1,7 +1,6 @@
 # This file includes three exercises that demonstrate how to use conditionals, booleans, and basic functions in Python.
 # Topics covered: comparison operators, if-else statements, arithmetic logic, and simple function implementation.
 
-
 #Q1) You are given two numbers stored in num1 and num2. If the sum of num1 and num2 is NOT equal to 10, then store True into a variable called not_ten, otherwise store False in not_ten.
 
 num1 = 6
@@ -53,20 +52,4 @@ def large_power(base, exponent):
 
 print(large_power(2, 13))
 print(large_power(2, 12))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

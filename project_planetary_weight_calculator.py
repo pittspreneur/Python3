@@ -1,4 +1,5 @@
-#This script shows my weight on different planets using control flow and my input of weight/planet.
+# This script calculates a person's weight on different planets using control flow and predefined planetary gravity factors.
+# It uses a numeric selector to determine the planet and outputs the adjusted weight based on gravitational differences.
 
 print("I have information for the following planets:\n")
 

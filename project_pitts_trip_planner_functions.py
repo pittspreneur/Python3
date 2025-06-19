@@ -1,12 +1,13 @@
-#Here we are using functions to help create a trip planner. The three functions created show a standard print statment with a single parameter, a rounded time function, and a destination function with four paramenters. 
+# This program uses functions to simulate a simple trip planning assistant.
+# It includes a personalized greeting, a time rounding feature, and a destination summary with optional transportation mode.
 
-#Building out initial trip planner function
+#Building out the initial trip planner function
 def trip_planner_welcome(name):
   print("Welcome to tripplanner v1.0, " + name + "!")
 trip_planner_welcome("Pitts")
 print("\n")
 
-#Building out rounded time function
+#Building out a rounded time function
 def estimated_time_rounded(estimated_time):
   rounded_time = round(estimated_time)
   return rounded_time

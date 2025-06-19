@@ -1,4 +1,5 @@
-# This file contains intermediate-level Python exercises focused on control flow and conditional logic. Challenges include comparing values, logical contradictions, nested conditions, and custom decision-making.
+# This file contains intermediate-level Python exercises focused on control flow and conditional logic.
+# Challenges include comparing values, logical contradictions, nested conditions, and custom decision-making.
 
 
 #Q1 Create a function named same_name() that has two parameters named your_name and my_name. If our names are identical, return True. Otherwise, return False.
@@ -80,43 +81,4 @@ print(max_num(-5, -10, -10))
 # should print -5
 print(max_num(2, 3, 3))
 # should print "It's a tie!"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

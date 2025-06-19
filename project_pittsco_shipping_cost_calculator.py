@@ -1,4 +1,5 @@
-#Pitts' Shipping Co Program takes the weight of a package and determines the cheapest way to ship that package between the cost of standard ground, premium ground, and drone shipping. 
+# Pitts' Shipping Co Program takes the weight of a package and determines the cheapest way to ship that package.
+# It compares the cost of standard ground, premium ground, and drone shipping using conditional logic and arithmetic.
 
 #Toggle Weight Here
 weight = 4.8

@@ -1,4 +1,5 @@
-#This program accesses, adds, removes, and modifies list elements of standard and 2-D lists for Pitts' T-Shirt Co Customers.
+# This program manages customer data for Pitts' T-Shirt Co by accessing, updating, and modifying single and 2-D lists.
+# It simulates customer preferences and shipping updates for a small clothing business.
 
 # Building the first name list
 first_names = ["Ainsley", "Ben", "Chani", "Depak"]

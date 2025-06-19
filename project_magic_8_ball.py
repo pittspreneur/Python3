@@ -1,7 +1,7 @@
-#This code acts as the popular toy, the Magic 8 Ball. Here, I have made the code as simple as possible in fewer lines than the previous version.
+# This code acts as a simplified version of the Magic 8 Ball toy.
+# It randomly selects an answer to a user’s question using conditional logic and Python’s random module.
 
 import random
-
 
 name = "Pittspreneur"
 question = "Will I get a promotion?"

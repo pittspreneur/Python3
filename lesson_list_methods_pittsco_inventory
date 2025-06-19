@@ -1,4 +1,5 @@
-#Here we continue modifying lists by using new methods and functions such as insert, pop, len, range, count, and sort to manipulate data in the list of inventory for Pitts' Co's Furniture.
+# This script demonstrates list manipulation techniques using Pitts' Co's furniture inventory.
+# It uses methods like insert, pop, count, len, range slicing, and sort to access, modify, and analyze data in a list.
 
 inventory = ["twin bed", "twin bed", "headboard", "queen bed", "king bed", "dresser", "dresser", "table", "table", "nightstand", "nightstand", "king bed", "king bed", "twin bed", "twin bed", "sheets", "sheets", "pillow", "pillow"]
 

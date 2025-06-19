@@ -1,4 +1,5 @@
-#Here we are using functions to build out different physics equations that show temperature, force, energy, work, and combine them in different applications.
+# This project demonstrates how to use Python functions to calculate physics-related formulas.
+# Includes conversions and calculations for temperature, force, energy, and work using real-world variables.
 
 #Given variables
 train_mass = 22680

@@ -1,4 +1,5 @@
-#In this project, I will store the names and prices of my furniture store’s catalog in variables by processing the total price, the item list of customers, and printing them to the output terminal.
+# This project simulates a simple retail checkout system for a furniture store.
+# It tracks item descriptions, prices, calculates sales tax, and prints a receipt for a customer.
 
 #Loveseat
 lovely_loveseat_description = "Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red or white."

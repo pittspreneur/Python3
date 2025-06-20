@@ -1,9 +1,9 @@
-#Here, we are calculating metrics based on three lists that contain both string and integer data. We take the data given and determine the average haircut price, total revenue, and use list comprehension to determine other statistics.
+# This program analyzes weekly haircut pricing and sales data for a salon.
+# It calculates average prices, total revenue, average daily revenue, and identifies lower-priced styles using list comprehension.
 
+#Given data on haircuts
 hairstyles = ["bouffant", "pixie", "dreadlocks", "crew", "bowl", "bob", "mohawk", "flattop"]
-
 prices = [30, 25, 40, 20, 20, 35, 50, 35]
-
 last_week = [2, 3, 5, 8, 4, 4, 6, 2]
 
 #Creating total price
